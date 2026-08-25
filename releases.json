@@ -5,6 +5,13 @@
       "type": "code",
       "released": "2026-08-25",
       "notes_url": "https://github.com/abh2-lab/cms-releases/blob/main/CHANGELOG.md"
+    },
+    {
+      "version": "1.1.0",
+      "type": "schema",
+      "released": "2026-08-25",
+      "notes_url": "https://github.com/abh2-lab/cms-releases/blob/main/CHANGELOG.md",
+      "requires_backup": true
     }
   ]
 }
