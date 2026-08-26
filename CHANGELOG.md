@@ -1,3 +1,20 @@
+## 1.4.0 — 2026-08-26
+
+Internal change, nothing visible on your site.
+
+The CMS's own web code and your theme's code now live in separate places. Until
+now the whole site — every page and every shared piece — sat inside one
+theme, so taking that theme away would have taken the site with it. They are
+now cleanly apart, which is what lets your theme live in its own place and
+still receive CMS updates.
+
+Also fixes a developer annoyance: if the web port was busy, the dev server used
+to quietly take the API's port instead, and the API looked like the thing that
+broke. It now says plainly which port is in use.
+
+No database change. Nothing to do before or after updating.
+
+
 ## 1.3.1 — 2026-08-26
 
 Safety and tooling. Nothing changes on your site.
