@@ -1,3 +1,12 @@
+
+## 1.4.2 — 2026-08-26
+
+Fixes setting up a fresh install, and makes a new install check for updates
+straight away instead of waiting a day.
+
+No database change. Nothing to do before or after updating.
+
+
 ## 1.4.1 — 2026-08-26
 
 Fixes what a new install receives.
