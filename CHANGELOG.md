@@ -1,3 +1,21 @@
+## 1.4.1 — 2026-08-26
+
+Fixes what a new install receives.
+
+Until now, making a starter copy of the CMS also copied the theme belonging to
+the install it was made from — its page designs, its logos and its sample
+content. A new install now gets only the CMS and its own two themes. Any theme
+you build by hand stays yours: it is never copied out, and CMS updates never
+touch it.
+
+Also fixes a setup problem where a fresh install could point at a theme that
+was not included, and tightens things so the CMS's own two themes cannot be
+edited by mistake — edits there would be overwritten by the next update.
+
+No database change. Nothing to do before or after updating.
+
+
+
 ## 1.4.0 — 2026-08-26
 
 Internal change, nothing visible on your site.
