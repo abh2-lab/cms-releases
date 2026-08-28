@@ -1,3 +1,14 @@
+## 1.4.3 — 2026-08-28
+
+The admin now shows which version you are running, at the bottom of the left
+sidebar. Handy when reporting a problem.
+
+Fixes an install sometimes reporting the wrong version to itself, which could
+make it offer an update it did not need.
+
+No database change. Nothing to do before or after updating.
+
+
 
 ## 1.4.2 — 2026-08-26
 
