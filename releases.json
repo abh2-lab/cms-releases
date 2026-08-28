@@ -48,6 +48,12 @@
       "type": "code",
       "released": "2026-08-26",
       "notes_url": "https://github.com/abh2-lab/cms-releases/blob/main/CHANGELOG.md"
+    },
+        {
+      "version": "1.4.3",
+      "type": "code",
+      "released": "2026-08-28",
+      "notes_url": "https://github.com/abh2-lab/cms-releases/blob/main/CHANGELOG.md"
     }
   ]
 }
