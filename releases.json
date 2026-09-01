@@ -67,6 +67,7 @@
       "released": "2026-08-28",
       "notes_url": "https://github.com/abh2-lab/cms-releases/blob/main/CHANGELOG.md",
       "new_env_vars": ["CMS_IMAGE_TAG"]
-    }
+    },
+    
   ]
 }
