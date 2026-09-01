@@ -1,3 +1,8 @@
+## 1.5.1 — 2026-08-28
+
+Docs only. No runtime change from 1.5.0.
+
+
 ## 1.4.4 — 2026-08-28
 
 The admin now shows which version you are running, at the bottom of the left
